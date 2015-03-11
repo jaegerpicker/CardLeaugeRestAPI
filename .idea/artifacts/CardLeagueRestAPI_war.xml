@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="CardLeagueRestAPI:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CardLeagueRestAPI.war">
+      <element id="artifact" artifact-name="CardLeagueRestAPI:war exploded" />
+    </root>
+  </artifact>
+</component>
